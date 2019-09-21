@@ -10,7 +10,6 @@ chrome plugin showing the approximate reading time of entries in eksisozluk.com
 ```sh
 $ git clone https://github.com/tayfurunal/eksisozluk-entry-minutes.git eksisozluk-entry-minutes
 
-$ cd eksisozluk-entry-minutes
 $ Chrome -> Kebab menu(⋮) -> More Tools -> Extensions
 $ Click Load unpacked and select folder
 ```

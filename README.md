@@ -1,6 +1,6 @@
 # Ekşi: Entry Süresi
 
-chrome plugin showing the approximate reading time of the text in eksisozluk.com.
+chrome plugin showing the approximate reading time of entries in eksisozluk.com
 
 ![image](https://i.ibb.co/rGDRh3h/rsz-1screen-shot-2019-09-21-at-151629.png)
 ![image](https://i.ibb.co/2SQ66qC/rsz-screen-shot-2019-09-21-at-160554.png)

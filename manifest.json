@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Ekşi: Entry Süresi",
+  "description": "Bu eklenti eksisozluk.com üzerinde yer alan entryleri yaklaşık olarak kaç dakikada okuyabileceğinizi gösterir.",
+  "version": "1.0",
+  "permissions": ["*://*.eksisozluk.com/*", "tabs"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.eksisozluk.com/*"],
+      "js": ["get_time.js"]
+    }
+  ],
+  "browser_action": {
+    "default_icon": "icon.png"
+  }
+}

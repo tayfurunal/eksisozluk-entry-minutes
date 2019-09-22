@@ -14,7 +14,7 @@ for (let i = 0; i < entries.length; i++) {
   readingTime = Math.round(wordCount / avgReadingSpeed);
   readingTime = readingTime === 0 ? 1 : readingTime;
 
-  let link = document.createElement('a');
+  let link = document.createElement('span');
   let linkText = document.createTextNode('~' + readingTime + 'dakika');
   link.appendChild(linkText);
   link.classList.add('entry-date', 'permalink');

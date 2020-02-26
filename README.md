@@ -2,7 +2,7 @@
 
 a chrome plugin showing the approximate reading time of entries in eksisozluk.com
 
-![image](https://i.ibb.co/rGDRh3h/rsz-1screen-shot-2019-09-21-at-151629.png)
+![image](https://lh3.googleusercontent.com/YA4Gxg181WinFmkWRrdydVxj_Xr5JPoMLN_poQdHFZ6sXcpTyhQSeJRRzFKW5FIpnPfIs0ORxLw=w640-h400-e365)
 ![image](https://i.ibb.co/2SQ66qC/rsz-screen-shot-2019-09-21-at-160554.png)
 
 ### Installation
